@@ -11,7 +11,7 @@ const Bar: React.FC = () => {
       
     },
     yAxis: {
-        // Name of                   on vertical axis
+        // Name of Malic Acid  category  on vertical axis
         name:"Malic Acid"
     },
     series: [
